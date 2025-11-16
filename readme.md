@@ -1,3 +1,6 @@
 Spring Security 6 , SpringBoot 3 Security, CORs,CSRF,JWT, OAUTH2, OpenID Connect, KeyCloak, Spring Authorization Server
 ---
 course repo: https://github.com/eazybytes/spring-security
+---
+
+Este es un **repositorio educativo de Spring Security** que sirve como curso completo para aprender la implementación de seguridad en aplicaciones Spring Boot 3.x con Java 21. Contiene 19 proyectos organizados progresivamente que cubren desde conceptos básicos de autenticación y autorización (configuración en memoria, login basado en formularios, control de acceso por roles) hasta temas avanzados como OAuth2, OpenID Connect, JWT, y servidores de autorización completos. El repositorio incluye tanto implementaciones backend (usando Spring Security 6.x, MySQL, JPA) como frontend (Angular con integración de Keycloak), demostrando patrones de seguridad para APIs REST, protección CSRF/CORS, validación de contraseñas comprometidas, gestión de sesiones, y autenticación stateless basada en tokens. Destaca especialmente por incluir una aplicación escolar completa (EazySchool), un servidor de autorización OAuth2 propio, y ejemplos prácticos de integración con diferentes flujos de OAuth2 (Authorization Code, Client Credentials, PKCE), convirtiéndolo en un recurso integral para desarrolladores que buscan dominar la seguridad en aplicaciones Spring modernas.
